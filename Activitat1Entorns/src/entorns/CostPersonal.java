@@ -6,6 +6,7 @@ import java.util.Collection;
 public class CostPersonal {
 
 	private static final int numeroCons = 20;
+	int agus = 0;
 
 	static float CostDelPersonal(Treballador treballadors[]) {
 		float costFinal = 0;
